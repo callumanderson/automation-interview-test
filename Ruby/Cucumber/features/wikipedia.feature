@@ -47,4 +47,4 @@ Then I should see the following portals on the page
 Scenario: Searching Wikipedia
 Given I am on the Wikipedia English Home Page
 When I search for "Mobile Phone"
-Then the page title should be "Mobile Phone - Wikipedia, the free encyclopedia"
+Then the page title should be "Mobile phone - Wikipedia, the free encyclopedia"

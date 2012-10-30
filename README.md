@@ -19,7 +19,7 @@ Question 2.  Cucumber + Watir + Ruby
 
 Getting Started:
 
-1. Clone the master from https://github.com/callumanderson/automation-interview-tes
+1. Clone the master from https://github.com/callumanderson/automation-interview-test
 1. Open up a terminal window
 2. Navigate to the features directory (~/DownloadLocation/Ruby/Cucumber/features)
 3. Run “rake cucumber” to run the tests

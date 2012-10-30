@@ -30,7 +30,7 @@ end
 
 Then /^the top Language should be "(.+)"$/ do |lang|
 	link = @browser.element(:css => ".central-featured-lang")
-	puts link.text.should include(lang)
+	link.text.should include(lang)
 end
 
 Then /^there should be "(.+)" in English$/ do |count|
@@ -46,6 +46,6 @@ Then /^I should see the following portals on the page$/ do |table|
 	portal_list = table.raw
 	portal_list.each do |portal|
 		link = @browser.link(:text, portal[0])
-		puts link.exists?.should == true
+		link.exists?.should == true
 	end
 end

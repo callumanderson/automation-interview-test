@@ -27,7 +27,7 @@
 Then /^I should see the following languages$/ do |table|
 	lang_list = table.raw
 	lang_list.each do |lang|
-#hack to get round to weird way ruby doesn't defef Strings
+#hack to get round to weird way Watir appears to treat table as array of array of Strings
 		@browser.text.should include(lang[0])
 	end
 end

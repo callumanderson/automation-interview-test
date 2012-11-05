@@ -17,7 +17,7 @@ Write a program in Ruby that prints the numbers from 1 to 100. But for multiples
 
 * Please complete the solution in the provided Fizzbuzz.rb file
 * You should print the Strings out to the standard console output using puts or print
-* To run a Ruby program in the console you need to call Ruby <file_name> so in this case you will run the file by calling "Ruby Fizzbuzz.rb" (without the quotes).
+* To run a Ruby program in the console you need to ask Ruby to interpret and compile your source code.  To do this you should call "Ruby Fizzbuzz.rb" (without the quotes).
 * Make sure you run your program a couple of times and check it against the provided Output file
 
 Question 2.  Cucumber + Watir + Ruby

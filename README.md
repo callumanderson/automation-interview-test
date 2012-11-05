@@ -2,7 +2,7 @@ README (Ruby Version)
 
 The technologies we are using for this technical test are Ruby, Watir and Cucumber. 
 
-The first part of this test consists of a short exercise which should be answered using ruby. You should use the provided file to write your answer to the question. Be sure to run the solution a couple of times to confirm it works.
+The first part of this test consists of a short exercise which should be answered using Ruby. You should use the provided file to write your answer to the question. Be sure to run the solution a couple of times to confirm it works.
 
 For the Cucumber + Watir portion of the exercise, you have been supplied a lightweight test harness which you will be expected to use. 
 

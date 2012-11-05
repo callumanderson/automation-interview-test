@@ -12,8 +12,13 @@ All required dependencies are installed on the laptop for you. You are given a s
 
 In case you are unfamiliar with Watir or Cucumber, I have provided a couple of cribsheets.
 
-Question 1.  Fizbuzz.rb
+Question 1.
 Write a program in Ruby that prints the numbers from 1 to 100. But for multiples of three print "Fizz" instead of the number and for the multiples of five print "Buzz". For numbers which are multiples of both three and five print "FizzBuzz".
+
+* Please complete the solution in the provided Fizzbuzz.rb file
+* You should print the Strings out to the standard console output using puts or print
+* To run a Ruby program in the console you need to call Ruby <file_name> so in this case you will run the file by calling "Ruby Fizzbuzz.rb" (without the quotes).
+* Make sure you run your program a couple of times and check it against the provided Output file
 
 Question 2.  Cucumber + Watir + Ruby
 
